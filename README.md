@@ -1,6 +1,6 @@
 # GitHub Profile
 
-**Watch the video [here]({{ page.youtube_link }})**
+**Watch the video [here](https://www.youtube.com/watch?v=8r2WPypJTR0)**
 
 ## Prerequisites
 
